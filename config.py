@@ -46,10 +46,10 @@ STRING5 = os.getenv("STRING_SESSION5", None)
 
 AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
 PING_IMG_URL = os.getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/0iapsn.jpg"
+    "https://files.catbox.moe/eehxb4.jpg"
 )
 
 PLAYLIST_IMG_URL = os.getenv(
